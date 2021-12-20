@@ -1,5 +1,9 @@
 <template>
-  <h1 class="text-3xl font-bold underline">Hello world!</h1>
+  <div>
+    <hero-section />
+    <promo-section />
+    <video-section />
+  </div>
 </template>
 
 <script>
