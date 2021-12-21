@@ -1,7 +1,9 @@
 <template>
-  <div class="bg-gray h-full px-5 py-10">
+  <div
+    class="bg-gray h-full px-5 py-10 lg:py-20 lg:flex lg:flex-row lg:justify-center lg:items-center lg:gap-16"
+  >
     <!-- Classic Donut -->
-    <div>
+    <div class="lg:max-w-md">
       <!-- Donut Image -->
       <div class="flex justify-center">
         <img
@@ -32,7 +34,7 @@
     </div>
 
     <!-- Fancy Donut -->
-    <div class="mt-10">
+    <div class="mt-10 lg:mt-0 lg:max-w-md">
       <!-- Donut Image -->
       <div class="flex justify-center">
         <img
