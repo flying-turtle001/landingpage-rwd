@@ -22,9 +22,9 @@
     <!-- CTA Buttons -->
     <div class="flex flex-row justify-center items-center gap-4">
       <!-- Classic -->
-      <base-button class="mt-6">Classic</base-button>
+      <base-button class="mt-6" bg-primary>Classic</base-button>
       <!-- Fancy -->
-      <base-button class="mt-6">Fancy</base-button>
+      <base-button class="mt-6" bg-primary>Fancy</base-button>
     </div>
   </div>
 </template>

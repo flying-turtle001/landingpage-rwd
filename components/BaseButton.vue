@@ -2,9 +2,11 @@
   <div
     class="flex flex-row justify-center items-center px-8 py-3 rounded-full uppercase font-bold"
     :class="[
-      outlined
-        ? `border border-gray bg-${bgColor} text-${textColor}`
-        : `bg-${bgColor} text-${textColor}`,
+      {
+        'bg-orange text-gray': bgPrimary,
+        'border border-gray bg-white text-gray': outlined,
+        'bg-gray text-white': bgSecondary,
+      },
     ]"
   >
     <!-- Pencil Icon -->
@@ -67,9 +69,14 @@ export default {
       default: false,
       required: false,
     },
-    bgColor: {
-      type: String,
-      default: 'orange',
+    bgPrimary: {
+      type: Boolean,
+      default: false,
+      required: false,
+    },
+    bgSecondary: {
+      type: Boolean,
+      default: false,
       required: false,
     },
     textColor: {

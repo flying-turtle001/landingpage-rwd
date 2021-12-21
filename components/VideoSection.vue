@@ -6,7 +6,12 @@
       Nicht nur spielen. Performen.
     </h2>
     <div class="mt-6">
-      <base-button bg-color="gray" text-color="white" show-icon icon-right
+      <base-button
+        bg-color="gray"
+        text-color="white"
+        show-icon
+        icon-right
+        bg-secondary
         >Video abspielen</base-button
       >
     </div>
