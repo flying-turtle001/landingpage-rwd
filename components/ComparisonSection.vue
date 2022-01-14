@@ -1,6 +1,6 @@
 <template>
   <div
-    class="bg-gray h-full px-5 py-10 lg:py-20 lg:flex lg:flex-row lg:justify-center lg:items-center lg:gap-16"
+    class="bg-gray h-full px-5 py-10 lg:py-20 sm:flex sm:flex-row sm:justify-center sm:items-center sm:gap-16"
   >
     <!-- Classic Donut -->
     <div class="lg:max-w-md">

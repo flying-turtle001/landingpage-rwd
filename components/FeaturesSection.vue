@@ -41,7 +41,7 @@
       <div class="swiper-wrapper">
         <!-- Slide 1 -->
         <div
-          class="swiper-slide h-full px-5 py-10 lg:py-20 flex flex-col-reverse lg:flex-row justify-center items-center gap-6 4"
+          class="swiper-slide h-full px-5 sm:px-10 py-10 lg:py-20 flex flex-col-reverse sm:flex-row justify-center items-center gap-6"
         >
           <!-- Text -->
           <div>
@@ -68,7 +68,7 @@
 
         <!-- Slide 2 -->
         <div
-          class="swiper-slide bg-[#130C0E] h-full px-5 py-10 lg:py-20 flex flex-col-reverse lg:flex-row justify-center items-center gap-6 4"
+          class="swiper-slide bg-[#130C0E] h-full px-5 sm:px-10 py-10 lg:py-20 flex flex-col-reverse sm:flex-row justify-center items-center gap-6"
         >
           <!-- Text -->
           <div>
@@ -95,7 +95,7 @@
 
         <!-- Slide 3 -->
         <div
-          class="swiper-slide bg-[#130C0E] h-full px-5 py-10 lg:py-20 flex flex-col-reverse lg:flex-row justify-center items-center gap-6 4"
+          class="swiper-slide bg-[#130C0E] h-full px-5 sm:px-10 py-10 lg:py-20 flex flex-col-reverse sm:flex-row justify-center items-center gap-6"
         >
           <!-- Text -->
           <div>

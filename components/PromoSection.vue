@@ -1,6 +1,6 @@
 <template>
   <div
-    class="h-full px-5 py-10 lg:py-20 lg:flex lg:flex-row lg:justify-center lg:items-center lg:gap-8"
+    class="bg-white h-full px-5 py-10 lg:py-20 lg:flex lg:flex-row lg:justify-center lg:items-center lg:gap-8"
   >
     <!-- Text + CTA Button -->
     <div>

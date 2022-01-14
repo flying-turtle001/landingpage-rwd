@@ -45,7 +45,7 @@
     </div>
 
     <!-- Slider - Mobil -->
-    <div v-swiper:mySwiper="swiperOption" class="lg:hidden">
+    <div v-swiper:mySwiper="swiperOption" class="sm:hidden">
       <div class="swiper-wrapper">
         <!-- Donut 1 -->
         <div class="swiper-slide">
@@ -98,18 +98,18 @@
       <div slot="pagination" class="swiper-pagination"></div>
     </div>
 
-    <!-- Slider - Desktop -->
+    <!-- Slider - Tablet / Desktop -->
     <div
       ref="swiper"
       v-swiper:mySwiperDesk="swiperOptionDesk"
-      class="hidden lg:block"
+      class="hidden sm:block"
     >
       <div class="swiper-wrapper">
         <!-- Donut 1 -->
         <div class="swiper-slide">
-          <div class="bg-white w-80">
+          <div class="bg-white sm:w-44 lg:w-80">
             <img
-              class="max-w-xs"
+              class="lg:max-w-xs"
               src="/img/schokoladen-donut-mit-streusel.png"
             />
           </div>
@@ -119,9 +119,9 @@
 
         <!-- Donut 2 -->
         <div class="swiper-slide">
-          <div class="bg-white w-80">
+          <div class="bg-white sm:w-44 lg:w-80">
             <img
-              class="max-w-xs"
+              class="lg:max-w-xs"
               src="/img/schokoladen-donut-mit-streusel.png"
             />
           </div>
@@ -131,9 +131,9 @@
 
         <!-- Donut 3 -->
         <div class="swiper-slide">
-          <div class="bg-white w-80">
+          <div class="bg-white sm:w-44 lg:w-80">
             <img
-              class="max-w-xs"
+              class="lg:max-w-xs"
               src="/img/schokoladen-donut-mit-streusel.png"
             />
           </div>
@@ -143,9 +143,9 @@
 
         <!-- Donut 4 -->
         <div class="swiper-slide">
-          <div class="bg-white w-80">
+          <div class="bg-white sm:w-44 lg:w-80">
             <img
-              class="max-w-xs"
+              class="lg:max-w-xs"
               src="/img/schokoladen-donut-mit-streusel.png"
             />
           </div>
@@ -155,9 +155,9 @@
 
         <!-- Donut 5 -->
         <div class="swiper-slide">
-          <div class="bg-white w-80">
+          <div class="bg-white sm:w-44 lg:w-80">
             <img
-              class="max-w-xs"
+              class="lg:max-w-xs"
               src="/img/schokoladen-donut-mit-streusel.png"
             />
           </div>
@@ -167,9 +167,9 @@
 
         <!-- Donut 6 -->
         <div class="swiper-slide">
-          <div class="bg-white w-80">
+          <div class="bg-white sm:w-44 lg:w-80">
             <img
-              class="max-w-xs"
+              class="lg:max-w-xs"
               src="/img/schokoladen-donut-mit-streusel.png"
             />
           </div>
@@ -179,9 +179,9 @@
 
         <!-- Donut 7 -->
         <div class="swiper-slide">
-          <div class="bg-white w-80">
+          <div class="bg-white sm:w-44 lg:w-80">
             <img
-              class="max-w-xs"
+              class="lg:max-w-xs"
               src="/img/schokoladen-donut-mit-streusel.png"
             />
           </div>
@@ -191,9 +191,9 @@
 
         <!-- Donut 8 -->
         <div class="swiper-slide">
-          <div class="bg-white w-80">
+          <div class="bg-white sm:w-44 lg:w-80">
             <img
-              class="max-w-xs"
+              class="lg:max-w-xs"
               src="/img/schokoladen-donut-mit-streusel.png"
             />
           </div>

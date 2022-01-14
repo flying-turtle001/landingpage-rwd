@@ -24,7 +24,7 @@
     <!-- Content -->
     <div
       v-if="firstTabIsOpen"
-      class="lg:grid lg:grid-cols-3 lg:gap-12 lg:px-20"
+      class="sm:grid sm:grid-cols-3 sm:gap-12 lg:gap-12 sm:px-10 lg:px-20"
     >
       <!-- Average donut size -->
       <div class="my-4">
@@ -90,7 +90,7 @@
     <!-- Content -->
     <div
       v-if="secondTabIsOpen"
-      class="lg:grid lg:grid-cols-3 lg:gap-12 lg:px-20"
+      class="sm:grid sm:grid-cols-3 sm:gap-12 lg:gap-12 sm:px-10 lg:px-20"
     >
       <!-- Wheat flour -->
       <div class="my-4">
