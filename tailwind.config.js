@@ -1,10 +1,10 @@
 module.exports = {
   content: [
-    './components/**/*.{js,vue,ts}',
+    './components/**/*.vue',
     './layouts/**/*.vue',
     './pages/**/*.vue',
-    './plugins/**/*.{js,ts}',
-    './nuxt.config.{js,ts}',
+    './plugins/**/*.js',
+    './nuxt.config.js',
   ],
   theme: {
     extend: {
@@ -12,6 +12,9 @@ module.exports = {
         blue: '#0A204B',
         orange: '#FF8F1C',
         gray: '#333132',
+      },
+      backgroundImage: {
+        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
       },
     },
   },

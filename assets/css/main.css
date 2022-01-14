@@ -16,3 +16,12 @@
     font-family: 'Source Sans Pro', sans-serif;
   }
 }
+
+.swiper-pagination-bullet {
+  background-color: #333132 !important;
+  opacity: 1 !important;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #ff8f1c !important;
+}

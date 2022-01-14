@@ -4,6 +4,9 @@
     <promo-section />
     <video-section />
     <comparison-section />
+    <features-section />
+    <accordion-section />
+    <favorites-section />
   </div>
 </template>
 
