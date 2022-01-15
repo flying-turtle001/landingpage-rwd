@@ -3,7 +3,7 @@
     class="h-[34rem] px-5 text-center flex flex-col justify-center items-center bg-black"
   >
     <h2 class="text-3xl text-white uppercase font-bold">
-      Nicht nur spielen. Performen.
+      Nicht nur essen. Genießen.
     </h2>
     <div class="mt-6">
       <base-button

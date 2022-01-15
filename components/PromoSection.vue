@@ -6,17 +6,18 @@
     <div>
       <div class="text-gray text-center">
         <h2 class="uppercase font-bold text-4xl">
-          Kreiere was du willst.<br />
-          Ein Preis.
+          Unsere Aktion!<br />
+          3 für 2
         </h2>
         <div class="mt-6 normal-case">
-          Personalisiere deinen Donut für 8,99 € mit dem Code:
-          <span class="uppercase">Donut21</span>
+          Entscheide dich für 3 Donuts und bezahle nur 2.
         </div>
       </div>
       <!-- CTA Button -->
       <div class="mt-6 flex justify-center">
-        <base-button bg-color="white" outlined show-icon>Anpassen</base-button>
+        <base-button bg-color="white" outlined show-icon
+          >Wähle deine Donuts</base-button
+        >
       </div>
     </div>
 

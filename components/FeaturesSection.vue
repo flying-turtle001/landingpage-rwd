@@ -46,12 +46,11 @@
           <!-- Text -->
           <div>
             <h3 class="text-4xl text-orange uppercase font-bold">
-              Konfigurierbare Streusel
+              Verschiedene Toppings
             </h3>
             <p class="my-6 max-w-xs text-base text-white">
-              Du kannst jedem konfigurierbaren Donut seine ganz eigene Note
-              verpassen. Wähle dazu einfach die passenden Streusel aus und peppe
-              damit deinen Donut auf!
+              Jeder Donut von uns besitzt sein ganz eigenes Topping. Wähle ganz
+              einfach zwischen deinen lieblings Donut Toppings.
             </p>
           </div>
 
@@ -73,12 +72,11 @@
           <!-- Text -->
           <div>
             <h3 class="text-4xl text-orange uppercase font-bold">
-              Konfigurierbare Streusel
+              Einzigartige Füllung
             </h3>
             <p class="my-6 max-w-xs text-base text-white">
-              Du kannst jedem konfigurierbaren Donut seine ganz eigene Note
-              verpassen. Wähle dazu einfach die passenden Streusel aus und peppe
-              damit deinen Donut auf!
+              Wir entwickeln einzigartige Füllung speziell für jeden Geschmack.
+              Wir sind sicher, auch du wirst unsere Füllungen lieben!
             </p>
           </div>
 
@@ -100,12 +98,11 @@
           <!-- Text -->
           <div>
             <h3 class="text-4xl text-orange uppercase font-bold">
-              Konfigurierbare Streusel
+              Vegane Donuts
             </h3>
             <p class="my-6 max-w-xs text-base text-white">
-              Du kannst jedem konfigurierbaren Donut seine ganz eigene Note
-              verpassen. Wähle dazu einfach die passenden Streusel aus und peppe
-              damit deinen Donut auf!
+              Wir sorgen dafür, dass auch du, ohne tierische Produkte, deine
+              lieblings Donuts genießen kannst.
             </p>
           </div>
 
