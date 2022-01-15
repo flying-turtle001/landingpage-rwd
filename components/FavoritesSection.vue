@@ -49,11 +49,10 @@
       <div class="swiper-wrapper">
         <!-- Donut 1 -->
         <div class="swiper-slide">
-          <div class="bg-white w-80">
-            <img
-              class="max-w-xs"
-              src="/img/schokoladen-donut-mit-streusel.png"
-            />
+          <div
+            class="bg-white w-80 h-80 flex flex-row justify-center items-center"
+          >
+            <img class="max-w-xs" src="/img/fancy-donut.png" />
           </div>
           <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
           <div class="mb-14 text-base text-gray">4,99 €</div>
@@ -61,10 +60,12 @@
 
         <!-- Donut 2 -->
         <div class="swiper-slide">
-          <div class="bg-white w-80">
+          <div
+            class="bg-white w-80 h-80 flex flex-row justify-center items-center"
+          >
             <img
               class="max-w-xs"
-              src="/img/schokoladen-donut-mit-streusel.png"
+              src="/img/donut-mit-schokoriegel-und-toffifee.png"
             />
           </div>
           <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
@@ -73,10 +74,12 @@
 
         <!-- Donut 3 -->
         <div class="swiper-slide">
-          <div class="bg-white w-80">
+          <div
+            class="bg-white w-80 h-80 flex flex-row justify-center items-center"
+          >
             <img
               class="max-w-xs"
-              src="/img/schokoladen-donut-mit-streusel.png"
+              src="/img/donut-mit-weisser-schokolade-und-himbeere.png"
             />
           </div>
           <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
@@ -85,10 +88,62 @@
 
         <!-- Donut 4 -->
         <div class="swiper-slide">
-          <div class="bg-white w-80">
+          <div
+            class="bg-white w-80 h-80 flex flex-row justify-center items-center"
+          >
+            <img class="max-w-xs" src="/img/donut-mit-herz-streussel.png" />
+          </div>
+          <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
+          <div class="mb-14 text-base text-gray">4,99 €</div>
+        </div>
+
+        <!-- Donut 5 -->
+        <div class="swiper-slide">
+          <div
+            class="bg-white w-80 h-80 flex flex-row justify-center items-center"
+          >
             <img
               class="max-w-xs"
-              src="/img/schokoladen-donut-mit-streusel.png"
+              src="/img/donut-mit-schokoriegel-und-fruechten.png"
+            />
+          </div>
+          <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
+          <div class="mb-14 text-base text-gray">4,99 €</div>
+        </div>
+
+        <!-- Donut 6 -->
+        <div class="swiper-slide">
+          <div
+            class="bg-white w-80 h-80 flex flex-row justify-center items-center"
+          >
+            <img
+              class="max-w-xs"
+              src="/img/donut-mit-schokolade-und-fruechten.png"
+            />
+          </div>
+          <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
+          <div class="mb-14 text-base text-gray">4,99 €</div>
+        </div>
+
+        <!-- Donut 7 -->
+        <div class="swiper-slide">
+          <div
+            class="bg-white w-80 h-80 flex flex-row justify-center items-center"
+          >
+            <img class="max-w-xs" src="/img/veganer-donut.png" />
+          </div>
+          <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
+          <div class="mb-14 text-base text-gray">4,99 €</div>
+        </div>
+
+        <!-- Donut 8 -->
+        <div class="swiper-slide">
+          <div
+            class="bg-white w-80 h-80 flex flex-row justify-center items-center"
+          >
+            <img
+              class="max-w-xs"
+              src="/img/donut-mit-maxi-king-und-fruechten.png"
             />
           </div>
           <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
@@ -107,11 +162,10 @@
       <div class="swiper-wrapper">
         <!-- Donut 1 -->
         <div class="swiper-slide">
-          <div class="bg-white sm:w-44 lg:w-80">
-            <img
-              class="lg:max-w-xs"
-              src="/img/schokoladen-donut-mit-streusel.png"
-            />
+          <div
+            class="bg-white sm:w-44 lg:w-80 lg:h-80 lg:flex lg:flex-row lg:justify-center lg:items-center"
+          >
+            <img class="lg:max-w-4xs" src="/img/fancy-donut.png" />
           </div>
           <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
           <div class="mb-14 text-base text-gray">4,99 €</div>
@@ -119,10 +173,12 @@
 
         <!-- Donut 2 -->
         <div class="swiper-slide">
-          <div class="bg-white sm:w-44 lg:w-80">
+          <div
+            class="bg-white sm:w-44 lg:w-80 lg:h-80 lg:flex lg:flex-row lg:justify-center lg:items-center"
+          >
             <img
-              class="lg:max-w-xs"
-              src="/img/schokoladen-donut-mit-streusel.png"
+              class="lg:max-w-4xs"
+              src="/img/donut-mit-schokoriegel-und-toffifee.png"
             />
           </div>
           <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
@@ -131,10 +187,12 @@
 
         <!-- Donut 3 -->
         <div class="swiper-slide">
-          <div class="bg-white sm:w-44 lg:w-80">
+          <div
+            class="bg-white sm:w-44 lg:w-80 lg:h-80 lg:flex lg:flex-row lg:justify-center lg:items-center"
+          >
             <img
-              class="lg:max-w-xs"
-              src="/img/schokoladen-donut-mit-streusel.png"
+              class="lg:max-w-4xs"
+              src="/img/donut-mit-weisser-schokolade-und-himbeere.png"
             />
           </div>
           <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
@@ -143,11 +201,10 @@
 
         <!-- Donut 4 -->
         <div class="swiper-slide">
-          <div class="bg-white sm:w-44 lg:w-80">
-            <img
-              class="lg:max-w-xs"
-              src="/img/schokoladen-donut-mit-streusel.png"
-            />
+          <div
+            class="bg-white sm:w-44 lg:w-80 lg:h-80 lg:flex lg:flex-row lg:justify-center lg:items-center"
+          >
+            <img class="lg:max-w-4xs" src="/img/donut-mit-herz-streussel.png" />
           </div>
           <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
           <div class="mb-14 text-base text-gray">4,99 €</div>
@@ -155,10 +212,12 @@
 
         <!-- Donut 5 -->
         <div class="swiper-slide">
-          <div class="bg-white sm:w-44 lg:w-80">
+          <div
+            class="bg-white sm:w-44 lg:w-80 lg:h-80 lg:flex lg:flex-row lg:justify-center lg:items-center"
+          >
             <img
-              class="lg:max-w-xs"
-              src="/img/schokoladen-donut-mit-streusel.png"
+              class="lg:max-w-4xs"
+              src="/img/donut-mit-schokoriegel-und-fruechten.png"
             />
           </div>
           <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
@@ -167,10 +226,12 @@
 
         <!-- Donut 6 -->
         <div class="swiper-slide">
-          <div class="bg-white sm:w-44 lg:w-80">
+          <div
+            class="bg-white sm:w-44 lg:w-80 lg:h-80 lg:flex lg:flex-row lg:justify-center lg:items-center"
+          >
             <img
-              class="lg:max-w-xs"
-              src="/img/schokoladen-donut-mit-streusel.png"
+              class="lg:max-w-4xs"
+              src="/img/donut-mit-schokolade-und-fruechten.png"
             />
           </div>
           <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
@@ -179,11 +240,10 @@
 
         <!-- Donut 7 -->
         <div class="swiper-slide">
-          <div class="bg-white sm:w-44 lg:w-80">
-            <img
-              class="lg:max-w-xs"
-              src="/img/schokoladen-donut-mit-streusel.png"
-            />
+          <div
+            class="bg-white sm:w-44 lg:w-80 lg:h-80 lg:flex lg:flex-row lg:justify-center lg:items-center"
+          >
+            <img class="lg:max-w-4xs" src="/img/veganer-donut.png" />
           </div>
           <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
           <div class="mb-14 text-base text-gray">4,99 €</div>
@@ -191,10 +251,12 @@
 
         <!-- Donut 8 -->
         <div class="swiper-slide">
-          <div class="bg-white sm:w-44 lg:w-80">
+          <div
+            class="bg-white sm:w-44 lg:w-80 lg:h-80 lg:flex lg:flex-row lg:justify-center lg:items-center"
+          >
             <img
-              class="lg:max-w-xs"
-              src="/img/schokoladen-donut-mit-streusel.png"
+              class="lg:max-w-4xs"
+              src="/img/donut-mit-maxi-king-und-fruechten.png"
             />
           </div>
           <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>

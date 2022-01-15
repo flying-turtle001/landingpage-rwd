@@ -57,10 +57,7 @@
           <!-- Image -->
           <div>
             <div>
-              <img
-                class="max-w-xs"
-                src="/img/schokoladen-donut-mit-streusel.png"
-              />
+              <img class="max-w-xs lg:max-w-sm" src="/img/donut-topping.png" />
             </div>
           </div>
         </div>
@@ -83,10 +80,7 @@
           <!-- Image -->
           <div>
             <div>
-              <img
-                class="max-w-xs"
-                src="/img/schokoladen-donut-mit-streusel.png"
-              />
+              <img class="max-w-xs lg:max-w-sm" src="/img/donut-fuellung.png" />
             </div>
           </div>
         </div>
@@ -109,10 +103,7 @@
           <!-- Image -->
           <div>
             <div>
-              <img
-                class="max-w-xs"
-                src="/img/schokoladen-donut-mit-streusel.png"
-              />
+              <img class="max-w-xs lg:max-w-sm" src="/img/veganer-donut.png" />
             </div>
           </div>
         </div>

@@ -23,7 +23,7 @@
     <div
       class="w-full inline-block sm:max-w-xs lg:max-w-sm sm:absolute sm:top-1/2 sm:left-1/2 sm:-translate-y-1/2 sm:-translate-x-1/2"
     >
-      <img src="/img/schokoladen-donut-mit-streusel.png" alt="" />
+      <img src="/img/classic-donut.png" alt="" />
     </div>
 
     <!-- CTA Buttons -->

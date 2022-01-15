@@ -3,12 +3,12 @@
     class="bg-gray h-full px-5 py-10 lg:py-20 sm:flex sm:flex-row sm:justify-center sm:items-center sm:gap-16"
   >
     <!-- Classic Donut -->
-    <div class="lg:max-w-md">
+    <div class="lg:mt-14 lg:max-w-md">
       <!-- Donut Image -->
       <div class="flex justify-center">
         <img
-          class="max-w-xs"
-          src="/img/schokoladen-donut-mit-streusel.png"
+          class="max-w-xs sm:max-w-2xl"
+          src="/img/classic-donut.png"
           alt=""
         />
       </div>
@@ -37,11 +37,7 @@
     <div class="mt-10 lg:mt-0 lg:max-w-md">
       <!-- Donut Image -->
       <div class="flex justify-center">
-        <img
-          class="max-w-xs"
-          src="/img/schokoladen-donut-mit-streusel.png"
-          alt=""
-        />
+        <img class="max-w-xs sm:max-w-2xl" src="/img/fancy-donut.png" alt="" />
       </div>
       <div class="text-center">
         <!-- Heading -->

@@ -1,6 +1,6 @@
 <template>
   <div
-    class="bg-white h-full px-5 py-10 lg:py-20 lg:flex lg:flex-row lg:justify-center lg:items-center lg:gap-8"
+    class="bg-white h-full px-5 py-10 lg:py-20 lg:flex lg:flex-row lg:justify-center lg:items-center lg:gap-36"
   >
     <!-- Text + CTA Button -->
     <div>
@@ -25,7 +25,7 @@
     <div class="hidden lg:block">
       <img
         class="max-w-2xl"
-        src="/img/verschiedene-donut-variationen.png"
+        src="/img/donuts-auf-serviette.jpg"
         alt="Donut Variationen"
       />
     </div>
