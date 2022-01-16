@@ -21,9 +21,12 @@
 
     <!-- Donut Image -->
     <div
-      class="w-full inline-block sm:max-w-xs lg:max-w-sm sm:absolute sm:top-1/2 sm:left-1/2 sm:-translate-y-1/2 sm:-translate-x-1/2"
+      class="cursor-pointer w-full inline-block sm:max-w-xs sm:absolute sm:top-1/2 sm:left-1/2 sm:-translate-y-1/2 sm:-translate-x-1/2"
     >
-      <img src="/img/classic-donut.png" alt="" />
+      <!-- <img src="/img/classic-donut.png" alt="" /> -->
+
+      <!-- Product Spinner -->
+      <VueProductSpinner :images="imgs"></VueProductSpinner>
     </div>
 
     <!-- CTA Buttons -->
@@ -37,3 +40,33 @@
     </div>
   </div>
 </template>
+
+<script>
+import VueProductSpinner from 'vue-product-spinner'
+
+export default {
+  components: {
+    VueProductSpinner,
+  },
+  data() {
+    return {
+      imgs: [
+        '/img/hero-donut/donut_14.png',
+        '/img/hero-donut/donut_13.png',
+        '/img/hero-donut/donut_12.png',
+        '/img/hero-donut/donut_11.png',
+        '/img/hero-donut/donut_10.png',
+        '/img/hero-donut/donut_9.png',
+        '/img/hero-donut/donut_8.png',
+        '/img/hero-donut/donut_7.png',
+        '/img/hero-donut/donut_6.png',
+        '/img/hero-donut/donut_5.png',
+        '/img/hero-donut/donut_4.png',
+        '/img/hero-donut/donut_3.png',
+        '/img/hero-donut/donut_2.png',
+        '/img/hero-donut/donut_1.png',
+      ],
+    }
+  },
+}
+</script>
