@@ -54,8 +54,8 @@
           >
             <img class="max-w-xs" src="/img/fancy-donut.png" />
           </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
-          <div class="mb-14 text-base text-gray">4,99 €</div>
+          <h5 class="mt-3 text-base text-gray font-bold">Cheesecake Donut</h5>
+          <div class="mb-14 text-base text-gray">7,99 €</div>
         </div>
 
         <!-- Donut 2 -->
@@ -68,8 +68,8 @@
               src="/img/donut-mit-schokoriegel-und-toffifee.png"
             />
           </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
-          <div class="mb-14 text-base text-gray">4,99 €</div>
+          <h5 class="mt-3 text-base text-gray font-bold">Toffi Donut</h5>
+          <div class="mb-14 text-base text-gray">6,99 €</div>
         </div>
 
         <!-- Donut 3 -->
@@ -82,8 +82,8 @@
               src="/img/donut-mit-weisser-schokolade-und-himbeere.png"
             />
           </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
-          <div class="mb-14 text-base text-gray">4,99 €</div>
+          <h5 class="mt-3 text-base text-gray font-bold">White Crispy Donut</h5>
+          <div class="mb-14 text-base text-gray">5,99 €</div>
         </div>
 
         <!-- Donut 4 -->
@@ -93,8 +93,8 @@
           >
             <img class="max-w-xs" src="/img/donut-mit-herz-streussel.png" />
           </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
-          <div class="mb-14 text-base text-gray">4,99 €</div>
+          <h5 class="mt-3 text-base text-gray font-bold">Fall in love Donut</h5>
+          <div class="mb-14 text-base text-gray">3,99 €</div>
         </div>
 
         <!-- Donut 5 -->
@@ -107,8 +107,8 @@
               src="/img/donut-mit-schokoriegel-und-fruechten.png"
             />
           </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
-          <div class="mb-14 text-base text-gray">4,99 €</div>
+          <h5 class="mt-3 text-base text-gray font-bold">Schoco Kiss Donut</h5>
+          <div class="mb-14 text-base text-gray">5,99 €</div>
         </div>
 
         <!-- Donut 6 -->
@@ -121,8 +121,8 @@
               src="/img/donut-mit-schokolade-und-fruechten.png"
             />
           </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
-          <div class="mb-14 text-base text-gray">4,99 €</div>
+          <h5 class="mt-3 text-base text-gray font-bold">Fruit Love Donut</h5>
+          <div class="mb-14 text-base text-gray">6,99 €</div>
         </div>
 
         <!-- Donut 7 -->
@@ -132,8 +132,8 @@
           >
             <img class="max-w-xs" src="/img/veganer-donut.png" />
           </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
-          <div class="mb-14 text-base text-gray">4,99 €</div>
+          <h5 class="mt-3 text-base text-gray font-bold">Vegan Star Donut</h5>
+          <div class="mb-14 text-base text-gray">6,99 €</div>
         </div>
 
         <!-- Donut 8 -->
@@ -146,8 +146,8 @@
               src="/img/donut-mit-maxi-king-und-fruechten.png"
             />
           </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
-          <div class="mb-14 text-base text-gray">4,99 €</div>
+          <h5 class="mt-3 text-base text-gray font-bold">Maxi King Donut</h5>
+          <div class="mb-14 text-base text-gray">6,99 €</div>
         </div>
       </div>
       <div slot="pagination" class="swiper-pagination"></div>
@@ -167,8 +167,8 @@
           >
             <img class="lg:max-w-4xs" src="/img/fancy-donut.png" />
           </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
-          <div class="mb-14 text-base text-gray">4,99 €</div>
+          <h5 class="mt-3 text-base text-gray font-bold">Cheesecake Donut</h5>
+          <div class="mb-14 text-base text-gray">7,99 €</div>
         </div>
 
         <!-- Donut 2 -->
@@ -181,8 +181,8 @@
               src="/img/donut-mit-schokoriegel-und-toffifee.png"
             />
           </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
-          <div class="mb-14 text-base text-gray">4,99 €</div>
+          <h5 class="mt-3 text-base text-gray font-bold">Toffi Donut</h5>
+          <div class="mb-14 text-base text-gray">6,99 €</div>
         </div>
 
         <!-- Donut 3 -->
@@ -195,8 +195,8 @@
               src="/img/donut-mit-weisser-schokolade-und-himbeere.png"
             />
           </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
-          <div class="mb-14 text-base text-gray">4,99 €</div>
+          <h5 class="mt-3 text-base text-gray font-bold">White Crispy Donut</h5>
+          <div class="mb-14 text-base text-gray">5,99 €</div>
         </div>
 
         <!-- Donut 4 -->
@@ -206,8 +206,8 @@
           >
             <img class="lg:max-w-4xs" src="/img/donut-mit-herz-streussel.png" />
           </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
-          <div class="mb-14 text-base text-gray">4,99 €</div>
+          <h5 class="mt-3 text-base text-gray font-bold">Fall in love Donut</h5>
+          <div class="mb-14 text-base text-gray">3,99 €</div>
         </div>
 
         <!-- Donut 5 -->
@@ -220,8 +220,8 @@
               src="/img/donut-mit-schokoriegel-und-fruechten.png"
             />
           </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
-          <div class="mb-14 text-base text-gray">4,99 €</div>
+          <h5 class="mt-3 text-base text-gray font-bold">Schoco Kiss Donut</h5>
+          <div class="mb-14 text-base text-gray">5,99 €</div>
         </div>
 
         <!-- Donut 6 -->
@@ -234,8 +234,8 @@
               src="/img/donut-mit-schokolade-und-fruechten.png"
             />
           </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
-          <div class="mb-14 text-base text-gray">4,99 €</div>
+          <h5 class="mt-3 text-base text-gray font-bold">Fruit Love Donut</h5>
+          <div class="mb-14 text-base text-gray">6,99 €</div>
         </div>
 
         <!-- Donut 7 -->
@@ -245,8 +245,8 @@
           >
             <img class="lg:max-w-4xs" src="/img/veganer-donut.png" />
           </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
-          <div class="mb-14 text-base text-gray">4,99 €</div>
+          <h5 class="mt-3 text-base text-gray font-bold">Vegan Star Donut</h5>
+          <div class="mb-14 text-base text-gray">6,99 €</div>
         </div>
 
         <!-- Donut 8 -->
@@ -259,8 +259,8 @@
               src="/img/donut-mit-maxi-king-und-fruechten.png"
             />
           </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Classic Donut</h5>
-          <div class="mb-14 text-base text-gray">4,99 €</div>
+          <h5 class="mt-3 text-base text-gray font-bold">Maxi King Donut</h5>
+          <div class="mb-14 text-base text-gray">6,99 €</div>
         </div>
       </div>
       <div slot="pagination" class="swiper-pagination"></div>

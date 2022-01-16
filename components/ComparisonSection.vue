@@ -17,7 +17,7 @@
       <div class="text-center">
         <!-- Heading -->
         <h3 class="mt-6 text-xl text-orange font-bold uppercase">Classic</h3>
-        <div class="text-xs text-white">Ab 4,99€</div>
+        <div class="text-xs text-white">Ab 2,99€</div>
         <!-- Link -->
         <NuxtLink
           to="/"
@@ -43,7 +43,7 @@
       <div class="text-center">
         <!-- Heading -->
         <h3 class="mt-6 text-xl text-orange font-bold uppercase">Fancy</h3>
-        <div class="text-xs text-white">Ab 8,99€</div>
+        <div class="text-xs text-white">Ab 4,99€</div>
         <!-- Link -->
         <NuxtLink
           to="/"

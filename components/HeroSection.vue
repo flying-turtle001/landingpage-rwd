@@ -15,7 +15,7 @@
       <br />
       <span
         class="inline-block mt-6 normal-case text-orange text-base font-bold"
-        >Ab 4,99€</span
+        >Ab 2,99€</span
       >
     </div>
 
