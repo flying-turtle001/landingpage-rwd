@@ -1,5 +1,6 @@
 <template>
   <div
+    id="classic-fancy-donut"
     class="bg-gray h-full px-5 py-10 lg:py-20 sm:flex sm:flex-row sm:justify-center sm:items-center sm:gap-16"
   >
     <!-- Classic Donut -->

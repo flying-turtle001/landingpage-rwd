@@ -34,9 +34,19 @@
       class="sm:absolute sm:bottom-0 lg:bottom-0 sm:left-1/2 lg:left-1/2 sm:-translate-y-1/2 lg:-translate-y-1/2 sm:-translate-x-1/2 lg:-translate-x-1/2 flex flex-row justify-center items-center gap-4"
     >
       <!-- Classic -->
-      <base-button class="mt-6" bg-primary>Classic</base-button>
+      <base-button
+        v-scroll-to="'#classic-fancy-donut'"
+        class="mt-6 cursor-pointer"
+        bg-primary
+        >Classic</base-button
+      >
       <!-- Fancy -->
-      <base-button class="mt-6" bg-primary>Fancy</base-button>
+      <base-button
+        v-scroll-to="'#classic-fancy-donut'"
+        class="mt-6 cursor-pointer"
+        bg-primary
+        >Fancy</base-button
+      >
     </div>
   </div>
 </template>

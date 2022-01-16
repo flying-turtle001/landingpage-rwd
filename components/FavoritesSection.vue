@@ -159,7 +159,7 @@
       v-swiper:mySwiperDesk="swiperOptionDesk"
       class="hidden sm:block"
     >
-      <div class="swiper-wrapper">
+      <div class="swiper-wrapper cursor-pointer">
         <!-- Donut 1 -->
         <div class="swiper-slide">
           <div

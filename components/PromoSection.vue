@@ -15,7 +15,7 @@
       </div>
       <!-- CTA Button -->
       <div class="mt-6 flex justify-center">
-        <base-button bg-color="white" outlined show-icon
+        <base-button class="cursor-pointer" bg-color="white" outlined show-icon
           >Wähle deine Donuts</base-button
         >
       </div>

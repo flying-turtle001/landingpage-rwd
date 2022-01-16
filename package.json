@@ -15,7 +15,8 @@
     "nuxt": "^2.15.7",
     "swiper": "^5.4.5",
     "vue-awesome-swiper": "^4.1.1",
-    "vue-product-spinner": "^0.2.0"
+    "vue-product-spinner": "^0.2.0",
+    "vue-scrollto": "^2.20.0"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.14.7",

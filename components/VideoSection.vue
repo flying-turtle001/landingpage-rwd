@@ -27,6 +27,7 @@
       </h2>
       <div class="mt-6">
         <base-button
+          class="cursor-pointer"
           bg-color="gray"
           text-color="white"
           show-icon
