@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-[#D9D9DB] h-full pl-5 py-10 lg:py-20">
+  <div class="bg-[#D9D9DB] h-full pl-5 lg:px-20 py-10 lg:py-20">
     <div class="lg:flex lg:flex-row lg:justify-between lg:items-center">
       <!-- Heading -->
       <h4 class="mb-6 text-gray font-bold uppercase text-3xl">
@@ -7,7 +7,7 @@
       </h4>
 
       <!-- Navigation arrows -->
-      <div class="hidden lg:block mr-9">
+      <div class="hidden lg:block">
         <!-- Chevron left -->
         <div
           class="mr-2 inline-block border-[2px] border-gray rounded-full cursor-pointer"

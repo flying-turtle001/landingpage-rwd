@@ -126,6 +126,7 @@ export default {
       swiperOption: {
         pagination: {
           el: '.swiper-pagination',
+          clickable: true,
         },
       },
     }
