@@ -72,8 +72,8 @@
               Einzigartige Füllung
             </h3>
             <p class="my-6 max-w-xs text-base text-white">
-              Wir entwickeln einzigartige Füllung speziell für jeden Geschmack.
-              Wir sind sicher, auch du wirst unsere Füllungen lieben!
+              Wir entwickeln einzigartige Füllungen speziell für jeden
+              Geschmack. Wir sind sicher, auch du wirst unsere Füllungen lieben!
             </p>
           </div>
 
