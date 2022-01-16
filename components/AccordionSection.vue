@@ -6,18 +6,37 @@
       @click="firstTabIsOpen = !firstTabIsOpen"
     >
       <h5 class="text-xl font-bold text-gray uppercase">Gut zu wissen</h5>
-      <div>
+      <div v-if="!firstTabIsOpen">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           height="24px"
           viewBox="0 0 24 24"
           width="24px"
-          fill="#000000"
+          fill="#333132"
         >
           <path d="M0 0h24v24H0V0z" fill="none" />
           <path
             d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"
           />
+        </svg>
+      </div>
+      <div v-if="firstTabIsOpen">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          enable-background="new 0 0 24 24"
+          height="24px"
+          viewBox="0 0 24 24"
+          width="24px"
+          fill="#333132"
+        >
+          <g><rect fill="none" height="24" width="24" /></g>
+          <g>
+            <g>
+              <path
+                d="M7,11v2h10v-2H7z M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M12,20c-4.41,0-8-3.59-8-8 s3.59-8,8-8s8,3.59,8,8S16.41,20,12,20z"
+              />
+            </g>
+          </g>
         </svg>
       </div>
     </div>
@@ -71,18 +90,37 @@
       @click="secondTabIsOpen = !secondTabIsOpen"
     >
       <h5 class="text-xl font-bold text-gray uppercase">Zutaten</h5>
-      <div>
+      <div v-if="!secondTabIsOpen">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           height="24px"
           viewBox="0 0 24 24"
           width="24px"
-          fill="#000000"
+          fill="#333132"
         >
           <path d="M0 0h24v24H0V0z" fill="none" />
           <path
             d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"
           />
+        </svg>
+      </div>
+      <div v-if="secondTabIsOpen">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          enable-background="new 0 0 24 24"
+          height="24px"
+          viewBox="0 0 24 24"
+          width="24px"
+          fill="#333132"
+        >
+          <g><rect fill="none" height="24" width="24" /></g>
+          <g>
+            <g>
+              <path
+                d="M7,11v2h10v-2H7z M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M12,20c-4.41,0-8-3.59-8-8 s3.59-8,8-8s8,3.59,8,8S16.41,20,12,20z"
+              />
+            </g>
+          </g>
         </svg>
       </div>
     </div>
