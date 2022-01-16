@@ -3,9 +3,10 @@
     class="flex flex-row justify-center items-center px-8 py-3 rounded-full uppercase font-bold"
     :class="[
       {
-        'bg-orange text-gray': bgPrimary,
-        'border border-gray bg-white text-gray': outlined,
-        'bg-gray text-white': bgSecondary,
+        'bg-orange hover:bg-gray text-gray hover:text-orange': bgPrimary,
+        'border border-gray bg-white hover:bg-gray text-gray hover:text-white':
+          outlined,
+        'bg-gray hover:bg-white text-white hover:text-gray': bgSecondary,
       },
     ]"
   >
