@@ -163,7 +163,7 @@
         <!-- Donut 1 -->
         <div class="swiper-slide">
           <div
-            class="bg-white sm:w-44 lg:w-80 lg:h-80 lg:flex lg:flex-row lg:justify-center lg:items-center"
+            class="bg-white sm:w-44 sm:h-44 lg:w-80 lg:h-80 sm:flex sm:flex-row sm:justify-center sm:items-center"
           >
             <img class="lg:max-w-4xs" src="/img/fancy-donut.png" />
           </div>
@@ -174,7 +174,7 @@
         <!-- Donut 2 -->
         <div class="swiper-slide">
           <div
-            class="bg-white sm:w-44 lg:w-80 lg:h-80 lg:flex lg:flex-row lg:justify-center lg:items-center"
+            class="bg-white sm:w-44 sm:h-44 lg:w-80 lg:h-80 sm:flex sm:flex-row sm:justify-center sm:items-center"
           >
             <img
               class="lg:max-w-4xs"
@@ -188,7 +188,7 @@
         <!-- Donut 3 -->
         <div class="swiper-slide">
           <div
-            class="bg-white sm:w-44 lg:w-80 lg:h-80 lg:flex lg:flex-row lg:justify-center lg:items-center"
+            class="bg-white sm:w-44 sm:h-44 lg:w-80 lg:h-80 sm:flex sm:flex-row sm:justify-center sm:items-center"
           >
             <img
               class="lg:max-w-4xs"
@@ -202,7 +202,7 @@
         <!-- Donut 4 -->
         <div class="swiper-slide">
           <div
-            class="bg-white sm:w-44 lg:w-80 lg:h-80 lg:flex lg:flex-row lg:justify-center lg:items-center"
+            class="bg-white sm:w-44 sm:h-44 lg:w-80 lg:h-80 sm:flex sm:flex-row sm:justify-center sm:items-center"
           >
             <img class="lg:max-w-4xs" src="/img/donut-mit-herz-streussel.png" />
           </div>
@@ -213,7 +213,7 @@
         <!-- Donut 5 -->
         <div class="swiper-slide">
           <div
-            class="bg-white sm:w-44 lg:w-80 lg:h-80 lg:flex lg:flex-row lg:justify-center lg:items-center"
+            class="bg-white sm:w-44 sm:h-44 lg:w-80 lg:h-80 sm:flex sm:flex-row sm:justify-center sm:items-center"
           >
             <img
               class="lg:max-w-4xs"
@@ -227,7 +227,7 @@
         <!-- Donut 6 -->
         <div class="swiper-slide">
           <div
-            class="bg-white sm:w-44 lg:w-80 lg:h-80 lg:flex lg:flex-row lg:justify-center lg:items-center"
+            class="bg-white sm:w-44 sm:h-44 lg:w-80 lg:h-80 sm:flex sm:flex-row sm:justify-center sm:items-center"
           >
             <img
               class="lg:max-w-4xs"
@@ -241,7 +241,7 @@
         <!-- Donut 7 -->
         <div class="swiper-slide">
           <div
-            class="bg-white sm:w-44 lg:w-80 lg:h-80 lg:flex lg:flex-row lg:justify-center lg:items-center"
+            class="bg-white sm:w-44 sm:h-44 lg:w-80 lg:h-80 sm:flex sm:flex-row sm:justify-center sm:items-center"
           >
             <img class="lg:max-w-4xs" src="/img/veganer-donut.png" />
           </div>
@@ -252,7 +252,7 @@
         <!-- Donut 8 -->
         <div class="swiper-slide">
           <div
-            class="bg-white sm:w-44 lg:w-80 lg:h-80 lg:flex lg:flex-row lg:justify-center lg:items-center"
+            class="bg-white sm:w-44 sm:h-44 lg:w-80 lg:h-80 sm:flex sm:flex-row sm:justify-center sm:items-center"
           >
             <img
               class="lg:max-w-4xs"
