@@ -1,7 +1,7 @@
 <template>
   <div
     id="classic-fancy-donut"
-    class="bg-gray h-full px-5 py-10 lg:py-20 sm:flex sm:flex-row sm:justify-center sm:items-center sm:gap-16"
+    class="bg-gray h-full px-5 py-10 lg:py-20 md:flex md:flex-row md:justify-center md:items-center md:gap-16"
   >
     <!-- Classic Donut -->
     <div class="lg:mt-14 lg:max-w-md">

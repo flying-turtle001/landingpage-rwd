@@ -1,7 +1,7 @@
 <template>
   <div class="bg-[#130C0E]">
     <!-- Navigation arrows -->
-    <div class="hidden lg:block lg:ml-[340px] lg:pt-10">
+    <div class="hidden lg:block lg:ml-20 lg:pt-10">
       <!-- Chevron left -->
       <div
         class="mr-2 inline-block border-[2px] border-white rounded-full cursor-pointer"

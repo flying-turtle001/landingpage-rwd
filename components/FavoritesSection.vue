@@ -49,105 +49,74 @@
       <div class="swiper-wrapper">
         <!-- Donut 1 -->
         <div class="swiper-slide">
-          <div
-            class="bg-white w-80 h-80 flex flex-row justify-center items-center"
-          >
-            <img class="max-w-xs" src="/img/fancy-donut.png" />
-          </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Cheesecake Donut</h5>
-          <div class="mb-14 text-base text-gray">7,99 €</div>
+          <FavoriteDonut
+            donut-img="/img/fancy-donut.png"
+            donut-name="Cheesecake Donut"
+            donut-price="7,99 €"
+          />
         </div>
 
         <!-- Donut 2 -->
         <div class="swiper-slide">
-          <div
-            class="bg-white w-80 h-80 flex flex-row justify-center items-center"
-          >
-            <img
-              class="max-w-xs"
-              src="/img/donut-mit-schokoriegel-und-toffifee.png"
-            />
-          </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Toffi Donut</h5>
-          <div class="mb-14 text-base text-gray">6,99 €</div>
+          <FavoriteDonut
+            donut-img="/img/donut-mit-schokoriegel-und-toffifee.png"
+            donut-name="Toffi Donut"
+            donut-price="6,99 €"
+          />
         </div>
 
         <!-- Donut 3 -->
         <div class="swiper-slide">
-          <div
-            class="bg-white w-80 h-80 flex flex-row justify-center items-center"
-          >
-            <img
-              class="max-w-xs"
-              src="/img/donut-mit-weisser-schokolade-und-himbeere.png"
-            />
-          </div>
-          <h5 class="mt-3 text-base text-gray font-bold">White Crispy Donut</h5>
-          <div class="mb-14 text-base text-gray">5,99 €</div>
+          <FavoriteDonut
+            donut-img="/img/donut-mit-weisser-schokolade-und-himbeere.png"
+            donut-name="White Crispy Donut"
+            donut-price="5,99 €"
+          />
         </div>
 
         <!-- Donut 4 -->
         <div class="swiper-slide">
-          <div
-            class="bg-white w-80 h-80 flex flex-row justify-center items-center"
-          >
-            <img class="max-w-xs" src="/img/donut-mit-herz-streussel.png" />
-          </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Fall in love Donut</h5>
-          <div class="mb-14 text-base text-gray">3,99 €</div>
+          <FavoriteDonut
+            donut-img="/img/donut-mit-herz-streussel.png"
+            donut-name="Fall in love Donut"
+            donut-price="3,99 €"
+          />
         </div>
 
         <!-- Donut 5 -->
         <div class="swiper-slide">
-          <div
-            class="bg-white w-80 h-80 flex flex-row justify-center items-center"
-          >
-            <img
-              class="max-w-xs"
-              src="/img/donut-mit-schokoriegel-und-fruechten.png"
-            />
-          </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Schoco Kiss Donut</h5>
-          <div class="mb-14 text-base text-gray">5,99 €</div>
+          <FavoriteDonut
+            donut-img="/img/donut-mit-schokoriegel-und-fruechten.png"
+            donut-name="Schoco Kiss Donut"
+            donut-price="5,99 €"
+          />
         </div>
 
         <!-- Donut 6 -->
         <div class="swiper-slide">
-          <div
-            class="bg-white w-80 h-80 flex flex-row justify-center items-center"
-          >
-            <img
-              class="max-w-xs"
-              src="/img/donut-mit-schokolade-und-fruechten.png"
-            />
-          </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Fruit Love Donut</h5>
-          <div class="mb-14 text-base text-gray">6,99 €</div>
+          <FavoriteDonut
+            donut-img="/img/donut-mit-schokolade-und-fruechten.png"
+            donut-name="Fruit Love Donut"
+            donut-price="6,99 €"
+          />
         </div>
 
         <!-- Donut 7 -->
         <div class="swiper-slide">
-          <div
-            class="bg-white w-80 h-80 flex flex-row justify-center items-center"
-          >
-            <img class="max-w-xs" src="/img/veganer-donut.png" />
-          </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Vegan Star Donut</h5>
-          <div class="mb-14 text-base text-gray">6,99 €</div>
+          <FavoriteDonut
+            donut-img="/img/veganer-donut.png"
+            donut-name="Vegan Star Donut"
+            donut-price="6,99 €"
+          />
         </div>
 
         <!-- Donut 8 -->
         <div class="swiper-slide">
-          <div
-            class="bg-white w-80 h-80 flex flex-row justify-center items-center"
-          >
-            <img
-              class="max-w-xs"
-              src="/img/donut-mit-maxi-king-und-fruechten.png"
-            />
-          </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Maxi King Donut</h5>
-          <div class="mb-14 text-base text-gray">6,99 €</div>
+          <FavoriteDonut
+            donut-img="/img/donut-mit-maxi-king-und-fruechten.png"
+            donut-name="Maxi King Donut"
+            donut-price="6,99 €"
+          />
         </div>
       </div>
       <div slot="pagination" class="swiper-pagination"></div>
@@ -162,105 +131,74 @@
       <div class="swiper-wrapper cursor-pointer">
         <!-- Donut 1 -->
         <div class="swiper-slide">
-          <div
-            class="bg-white sm:w-44 sm:h-44 lg:w-64 lg:h-64 sm:flex sm:flex-row sm:justify-center sm:items-center"
-          >
-            <img class="lg:max-w-4xs" src="/img/fancy-donut.png" />
-          </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Cheesecake Donut</h5>
-          <div class="mb-14 text-base text-gray">7,99 €</div>
+          <FavoriteDonut
+            donut-img="/img/fancy-donut.png"
+            donut-name="Cheesecake Donut"
+            donut-price="7,99 €"
+          />
         </div>
 
         <!-- Donut 2 -->
         <div class="swiper-slide">
-          <div
-            class="bg-white sm:w-44 sm:h-44 lg:w-64 lg:h-64 sm:flex sm:flex-row sm:justify-center sm:items-center"
-          >
-            <img
-              class="lg:max-w-4xs"
-              src="/img/donut-mit-schokoriegel-und-toffifee.png"
-            />
-          </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Toffi Donut</h5>
-          <div class="mb-14 text-base text-gray">6,99 €</div>
+          <FavoriteDonut
+            donut-img="/img/donut-mit-schokoriegel-und-toffifee.png"
+            donut-name="Toffi Donut"
+            donut-price="6,99 €"
+          />
         </div>
 
         <!-- Donut 3 -->
         <div class="swiper-slide">
-          <div
-            class="bg-white sm:w-44 sm:h-44 lg:w-64 lg:h-64 sm:flex sm:flex-row sm:justify-center sm:items-center"
-          >
-            <img
-              class="lg:max-w-4xs"
-              src="/img/donut-mit-weisser-schokolade-und-himbeere.png"
-            />
-          </div>
-          <h5 class="mt-3 text-base text-gray font-bold">White Crispy Donut</h5>
-          <div class="mb-14 text-base text-gray">5,99 €</div>
+          <FavoriteDonut
+            donut-img="/img/donut-mit-weisser-schokolade-und-himbeere.png"
+            donut-name="White Crispy Donut"
+            donut-price="5,99 €"
+          />
         </div>
 
         <!-- Donut 4 -->
         <div class="swiper-slide">
-          <div
-            class="bg-white sm:w-44 sm:h-44 lg:w-64 lg:h-64 sm:flex sm:flex-row sm:justify-center sm:items-center"
-          >
-            <img class="lg:max-w-4xs" src="/img/donut-mit-herz-streussel.png" />
-          </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Fall in love Donut</h5>
-          <div class="mb-14 text-base text-gray">3,99 €</div>
+          <FavoriteDonut
+            donut-img="/img/donut-mit-herz-streussel.png"
+            donut-name="Fall in love Donut"
+            donut-price="3,99 €"
+          />
         </div>
 
         <!-- Donut 5 -->
         <div class="swiper-slide">
-          <div
-            class="bg-white sm:w-44 sm:h-44 lg:w-64 lg:h-64 sm:flex sm:flex-row sm:justify-center sm:items-center"
-          >
-            <img
-              class="lg:max-w-4xs"
-              src="/img/donut-mit-schokoriegel-und-fruechten.png"
-            />
-          </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Schoco Kiss Donut</h5>
-          <div class="mb-14 text-base text-gray">5,99 €</div>
+          <FavoriteDonut
+            donut-img="/img/donut-mit-schokoriegel-und-fruechten.png"
+            donut-name="Schoco Kiss Donut"
+            donut-price="5,99 €"
+          />
         </div>
 
         <!-- Donut 6 -->
         <div class="swiper-slide">
-          <div
-            class="bg-white sm:w-44 sm:h-44 lg:w-64 lg:h-64 sm:flex sm:flex-row sm:justify-center sm:items-center"
-          >
-            <img
-              class="lg:max-w-4xs"
-              src="/img/donut-mit-schokolade-und-fruechten.png"
-            />
-          </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Fruit Love Donut</h5>
-          <div class="mb-14 text-base text-gray">6,99 €</div>
+          <FavoriteDonut
+            donut-img="/img/donut-mit-schokolade-und-fruechten.png"
+            donut-name="Fruit Love Donut"
+            donut-price="6,99 €"
+          />
         </div>
 
         <!-- Donut 7 -->
         <div class="swiper-slide">
-          <div
-            class="bg-white sm:w-44 sm:h-44 lg:w-64 lg:h-64 sm:flex sm:flex-row sm:justify-center sm:items-center"
-          >
-            <img class="lg:max-w-4xs" src="/img/veganer-donut.png" />
-          </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Vegan Star Donut</h5>
-          <div class="mb-14 text-base text-gray">6,99 €</div>
+          <FavoriteDonut
+            donut-img="/img/veganer-donut.png"
+            donut-name="Vegan Star Donut"
+            donut-price="6,99 €"
+          />
         </div>
 
         <!-- Donut 8 -->
         <div class="swiper-slide">
-          <div
-            class="bg-white sm:w-44 sm:h-44 lg:w-64 lg:h-64 sm:flex sm:flex-row sm:justify-center sm:items-center"
-          >
-            <img
-              class="lg:max-w-4xs"
-              src="/img/donut-mit-maxi-king-und-fruechten.png"
-            />
-          </div>
-          <h5 class="mt-3 text-base text-gray font-bold">Maxi King Donut</h5>
-          <div class="mb-14 text-base text-gray">6,99 €</div>
+          <FavoriteDonut
+            donut-img="/img/donut-mit-maxi-king-und-fruechten.png"
+            donut-name="Maxi King Donut"
+            donut-price="6,99 €"
+          />
         </div>
       </div>
       <div slot="pagination" class="swiper-pagination"></div>
@@ -280,7 +218,7 @@ export default {
     return {
       swiperOption: {
         slidesPerView: 'auto',
-        spaceBetween: -15,
+        spaceBetween: 15,
         pagination: {
           el: '.swiper-pagination',
           clickable: true,

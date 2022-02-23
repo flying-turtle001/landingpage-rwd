@@ -1,10 +1,10 @@
 <template>
   <div
-    class="relative bg-gradient-radial from-[#205baf] via-[#0e2b5b] to-[#061131] h-full lg:h-[600px] px-5 py-10 sm:py-44 lg:py-20"
+    class="relative bg-gradient-radial from-[#205baf] via-[#0e2b5b] to-[#061131] h-full md:h-[600px] px-5 py-10 sm:py-44 lg:py-20"
   >
     <!-- Heading -->
     <div
-      class="lg:absolute lg:top-1/2 lg:left-1/2 lg:-translate-y-1/2 lg:-translate-x-[480px] uppercase text-white text-opacity-50"
+      class="md:absolute md:top-1/2 md:left-[63%] lg:left-[55%] md:-translate-y-1/2 md:-translate-x-[480px] uppercase text-white text-opacity-50"
     >
       <h1
         class="text-5xl sm:text-5xl lg:text-6xl font-bold sm:max-w-[200px] lg:max-w-[200px]"
@@ -21,7 +21,7 @@
 
     <!-- Donut Image -->
     <div
-      class="cursor-pointer w-full inline-block sm:max-w-xs sm:absolute sm:top-1/2 sm:left-1/2 sm:-translate-y-1/2 sm:-translate-x-1/2"
+      class="cursor-pointer w-full flex flex-col justify-center items-center sm:inline-block sm:max-w-xs sm:absolute sm:top-1/2 sm:left-1/2 sm:-translate-y-1/2 sm:-translate-x-1/2"
     >
       <!-- Product Spinner -->
       <VueProductSpinner :images="imgs"></VueProductSpinner>
