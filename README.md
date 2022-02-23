@@ -1,69 +1,76 @@
-# landingpage-rwd
+# False Hare - Semester Project
 
-## Build Setup
+This project was created as part of a semester project.
 
-```bash
-# install dependencies
-$ npm install
+## Table of contents
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+## Overview
 
-# generate static project
-$ npm run generate
-```
+### The challenge
 
-For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
+Conceptualize, design, and prototype a responsive landing page to display and promote a freely selectable product in a different, new, or opposing brand context.
 
-## Special Directories
+You can find more information [here](#what-i-learned).
 
-You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.
+### Screenshot
 
-### `assets`
+![](./static/img/web-showcase.png)
 
-The assets directory contains your uncompiled assets such as Stylus or Sass files, images, or fonts.
+### Links
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/assets).
+- Solution URL (Github): [https://github.com/flying-turtle001/landingpage-rwd](https://github.com/flying-turtle001/landingpage-rwd)
+- Live Site URL: [https://landingpage-rwd.netlify.app/](https://landingpage-rwd.netlify.app/)
 
-### `components`
+## My process
 
-The components directory contains your Vue.js components. Components make up the different parts of your page and can be reused and imported into your pages, layouts and even other components.
+### Built with
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/components).
+- Mobile-first workflow
+- [Vue](https://vuejs.org/) - JS framework
+- [Nuxt](https://nuxtjs.org/) - Vue framework
+- [Tailwind CSS](https://tailwindcss.com/) - CSS framework
 
-### `layouts`
+In the project directory, you can run:
 
-Layouts are a great help when you want to change the look and feel of your Nuxt app, whether you want to include a sidebar or have distinct layouts for mobile and desktop.
+### `npm run dev`
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+### What I learned
 
-### `pages`
+The tasks in this project were very diverse. Before I could start programming the landing page, it was first of all important to deal intensively with the concrete task.
 
-This directory contains your application views and routes. Nuxt will read all the `*.vue` files inside this directory and setup Vue Router automatically.
+My first task was to decide on a product and a brand context in which I wanted to place the product. I decided on donuts as the product and wanted to place them in the brand context of the company [SCUF](https://scufgaming.com/de).
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/get-started/routing).
+Next, I designed several wireframes to get a first impression of the content and its placement on the landing page.
+After that I created high fidelity screen designs for desktop and mobile devices. I created the wireframes as well as the screen designs in [Figma](https://www.figma.com/).
 
-### `plugins`
+After the preliminary work was done, I started developing the landing page. Being a big fan of modern frontend frameworks, I decided to use [Nuxt](https://nuxtjs.org/) for the development to deepen and improve my knowledge.
 
-The plugins directory contains JavaScript plugins that you want to run before instantiating the root Vue.js Application. This is the place to add Vue plugins and to inject functions or constants. Every time you need to use `Vue.use()`, you should create a file in `plugins/` and add its path to plugins in `nuxt.config.js`.
+For the styling of the individual components and content I used [Tailwind CSS](https://tailwindcss.com/).
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/plugins).
+I developed the landing page from scratch using the mobile first approach.
 
-### `static`
+In addition, I photographed and staged all the donuts placed on the landing page myself.
 
-This directory contains your static files. Each file inside this directory is mapped to `/`.
+During the development, the component-based development approach was very important to me.
 
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
+To give the landing page more dynamic and to practice working with third party packages, I placed a 360 degree rotatable donut in the hero section. For this I used [vue-product-spinner](https://github.com/micheleriva/vue-product-spinner).
+For the different sliders on the landing page I used [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper).
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/static).
+All in all, I was able to learn and deepen many things and workflows during the project work and at the same time I was able to deepen my knowledge in Vue, Nuxt and Tailwind CSS.
 
-### `store`
+## Author
 
-This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+- Website - [https://sitesandnetwork.com/](https://sitesandnetwork.com/)
+- LinkedIn - [https://www.linkedin.com/in/justin-esposito-947108200/](https://www.linkedin.com/in/justin-esposito-947108200/)
